@@ -1,0 +1,10 @@
+C:\Users\thien\source\repos\DTO\DataAcessTier\obj\Debug\DataAcessTier.csproj.AssemblyReference.cache
+C:\Users\thien\source\repos\DTO\DataAcessTier\obj\Debug\DataAcessTier.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\DTO\DataAcessTier\bin\Debug\DataAcessTier.dll
+C:\Users\thien\source\repos\DTO\DataAcessTier\bin\Debug\DataAcessTier.pdb
+C:\Users\thien\source\repos\DTO\DataAcessTier\bin\Debug\DTO.dll
+C:\Users\thien\source\repos\DTO\DataAcessTier\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\thien\source\repos\DTO\DataAcessTier\bin\Debug\DTO.pdb
+C:\Users\thien\source\repos\DTO\DataAcessTier\obj\Debug\DataAcessTier.csproj.CopyComplete
+C:\Users\thien\source\repos\DTO\DataAcessTier\obj\Debug\DataAcessTier.dll
+C:\Users\thien\source\repos\DTO\DataAcessTier\obj\Debug\DataAcessTier.pdb
